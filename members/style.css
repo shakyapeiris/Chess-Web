@@ -1,0 +1,27 @@
+.navbar-brand img{
+	width: 50px;
+	height: 50px;
+	margin-right: 5px;
+}
+.navbar-toggler-icon{
+	color: white;
+}
+.navbar-right{
+	float: right;
+}
+i{
+	margin-right: 5px;
+}
+.nav-item a:hover{
+	font-size: 1.2em;
+	color: white;
+}
+.age{
+	margin-top: 10px;
+	border-bottom: 1px solid black;
+}
+.fideimg{
+	width: 25px;
+	height:20px;
+	margin-right: 4px;
+}

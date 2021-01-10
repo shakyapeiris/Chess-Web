@@ -1,0 +1,32 @@
+.navbar-brand img{
+	width: 50px;
+	height: 50px;
+	margin-right: 5px;
+}
+.navbar-toggler-icon{
+	color: white;
+}
+.navbar-right{
+	float: right;
+}
+.carousel-inner img{
+	width: 100%;
+	height: 100%;
+}
+i{
+	margin-right: 5px;
+}
+.nav-item a:hover{
+	font-size: 1.2em;
+	color: white;
+}
+.two-boxes{
+	margin-top: 10px;
+
+}
+.two-boxes .bot{
+	margin-top: 10px;
+}
+.carousel-caption h3{
+	text-shadow: 2px 2px 7px rgba(150, 150, 150, 1);
+}

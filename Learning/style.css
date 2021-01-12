@@ -34,6 +34,7 @@ iframe{
 
 }
 .container-fluid ul li span{
+	width: 10%;
 	color: black;
 	margin-bottom: 5px;
 	border-bottom: black solid 1px;

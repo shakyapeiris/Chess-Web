@@ -24,10 +24,11 @@ iframe{
 	bottom: 0%;
 	left: 0%;
 }
-li{
+ul{
+	list-style: none;
 	text-decoration: none;
 	color: black;
-	
+
 }
 a:hover{
 	font-size: 1.2em;

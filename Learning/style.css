@@ -24,7 +24,7 @@ iframe{
 	bottom: 0%;
 	left: 0%;
 }
-ul{
+ul li{
 	list-style: none;
 	text-decoration: none;
 	color: black;

@@ -35,7 +35,7 @@ iframe{
 	border-bottom: black solid 1px;
 
 }
-a:hover{
+.container-fluid a:hover{
 	font-size: 1.2em;
 	text-decoration: none;
 	

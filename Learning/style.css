@@ -40,5 +40,11 @@ a:hover{
 	text-decoration: none;
 	
 }
+@media(max-width:764px){
+	iframe{
+		width: 100%;
+		height: auto;
+	}
+}
 
 

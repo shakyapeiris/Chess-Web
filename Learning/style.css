@@ -28,6 +28,8 @@ ul li{
 	list-style: none;
 	text-decoration: none;
 	color: black;
+	margin-bottom: 5px;
+	border-bottom: black solid 1px;
 
 }
 a:hover{

@@ -19,8 +19,10 @@ i{
 iframe{
 	border-bottom: 5px;
 }
-.modal-content span{
+.bg-1 span{
 	position: absolute;
 	bottom: 0%;
 	left: 0%;
 }
+
+

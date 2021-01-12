@@ -30,7 +30,7 @@ iframe{
 .container-fluid ul li{
 	list-style: none;
 	text-decoration: none;
-	margin: 10px;
+	
 
 }
 .container-fluid ul li span{
@@ -38,6 +38,7 @@ iframe{
 	color: black;
 	margin-bottom: 5px;
 	border-bottom: black solid 1px;
+	margin: 10px;
 }
 .container-fluid a:hover{
 	font-size: 1.2em;
